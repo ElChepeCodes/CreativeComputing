@@ -83,4 +83,4 @@ Abajo de los cuadros también se imprime el reporte del proceso de la red neuron
 ### Futuro
 Este proyecto aún no está completo. Mientras siga avanzando, este repositorio se actualizará con dichos avances.
 ### Contacto
-Cualquier duda puedes contactarme al correo jguti109@itam.mxone
+Cualquier duda puedes contactarme al correo jguti109@itam.mx
