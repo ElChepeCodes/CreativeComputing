@@ -78,6 +78,7 @@ Obtendrás un link para dar acceso a tu Drive. Es necesario que lo ancles para i
 
 Después de un tiempo corriendo tendrá el análisis de la imagen e imprimirá algunos de los resultados con el siguiente formato:
 ![alt text](https://github.com/josepe43/Images/blob/main/image.png?raw=true)
+
 Se imprime la imagen tomada, seguido de 7 cuadros con los colores dominantes de la imagen.
 Abajo de los cuadros también se imprime el reporte del proceso de la red neuronal y la clase con la que la red asoció la foto.
 ### Futuro
